@@ -1,0 +1,28 @@
+_repo: The-Assault--Germany-Before-the-Outbreak-and-England-in-War-Time_41252
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41252-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Wile, Frederic William
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '41071'
+    url: http://www.gutenberg.org/2009/agents/41071
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2012-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41252'
+  lccn: '16006503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: 'The Assault: Germany Before the Outbreak and England in War-Time'
+url: http://www.gutenberg.org/ebooks/41252
